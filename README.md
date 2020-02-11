@@ -9,4 +9,4 @@ This project aimed to implement HTML, CSS and JavaScript (the main front-end tec
 
 ![Preview 1](preview_screenshots/3.png)
 ![Preview 2](preview_screenshots/1.png)
-![Preview 3](preview_screenshots/2.pg)
+![Preview 3](preview_screenshots/2.png)
